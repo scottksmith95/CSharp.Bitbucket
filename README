@@ -1,0 +1,14 @@
+CSharp.Bitbucket is a C# .NET wrapper for the Bitbucket RESTful API.
+
+It contains the following
+
+  * OAuth connection support for Bitbucket
+  * API access via explicit Urls and response handling for Bitbucket
+  * ASP.NET MVC 3 example project
+  * Console application example project
+
+The following will be added
+
+  * API binding for Bitbucket
+
+API documentation can be found here: http://confluence.atlassian.com/display/BITBUCKET/Using+the+bitbucket+REST+APIs
