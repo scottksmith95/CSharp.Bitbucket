@@ -12,3 +12,4 @@ The following will be added
   * API binding for Bitbucket
 
 API documentation can be found here: http://confluence.atlassian.com/display/BITBUCKET/Using+the+bitbucket+REST+APIs
+NuGet package can be found here: https://nuget.org/packages/CSharp.Bitbucket
